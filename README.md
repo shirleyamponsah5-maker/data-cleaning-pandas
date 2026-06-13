@@ -8,11 +8,17 @@ The work is divided into three main stages: understanding the dataset, cleaning 
 Project Structure
 
 ├── structure.ipynb
+
 ├── cleaning.ipynb
+
 ├── shark_analysis.ipynb
+
 ├── sharks_df.csv
+
 ├── clean_shark_df.csv
+
 ├── Shark Attack Risk Analysis.pptx
+
 └── README.md
 
 Notebooks
